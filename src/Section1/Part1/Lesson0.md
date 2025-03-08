@@ -25,4 +25,4 @@ English: “I ate an apple then drank some water. What did you do?”
 Japanese: “<b>About me</b>, apple ate. Later, water drank. <b>About you</b>?”
 </pre>
 
-It sounds like backwards caveman speak, but that’s just because Japanese structure in English is incredibly silly. This is the only example in the entire guide where we’ll be writing unnatural English as a comparison with Japanese. You should not think about Japanese this way. You need to think of Japanese in Japanese, because Japanese is not English. 
+It sounds like backwards caveman speak, but that’s just because representing Japanese structure in English is incredibly silly. This is the only example in the entire guide where we’ll be writing unnatural English as a comparison with Japanese. You should not think about Japanese this way. You need to think of Japanese in Japanese, because Japanese is not English. 

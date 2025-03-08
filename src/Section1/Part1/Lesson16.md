@@ -49,6 +49,6 @@ to study Japanese (lit: “to do the study of Japanese”)
 (ungrammatical nonsense)
 </pre>
 
-The first treats 勉強 as a verb, and 日本語を as its object. The second considers 勉強 as a noun (modified by 日本語) and it is the object of the individual verb する. The third sentence is ungrammatical, because it tries to force two disconnected objects and simply doesn’t work.
+The first treats 勉強 as a verb, and 日本語を as its object. The second considers 勉強 a noun (modified by 日本語) and it is the object of the individual verb する. The third sentence is ungrammatical, because it tries to force two disconnected objects and simply doesn’t work.
 
 While we can translate the first and second sentences in two slightly different ways to accentuate the difference between 勉強する and 勉強をする, realistically the meaning is pretty much the same.

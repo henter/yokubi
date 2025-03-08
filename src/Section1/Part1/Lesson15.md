@@ -33,7 +33,7 @@ World of magic
 Magic-ish world
 </pre>
 
-魔法 is a noun (magic), and does not normally take な like this, but some author might write something like this to give it a special vibe.
+魔法 is a noun (magic), and does not normally take な like this, but some authors might write something like this to give it a special vibe.
 
 Going back to normal な-adjectives, they should be considered separate from nouns, and dictionaries do keep them as such. They clearly distinguish nouns (名詞) and な-adjective (形容動詞) as different categories. While a lot, if not most, of な-adjectives are also nouns, some of them aren’t, and cannot be used that way. For example, you cannot attach case marking particles directly to them.
 
@@ -51,7 +51,7 @@ A quiet person
 (ungrammatical sentence fragment)
 </pre>
 
-In the example above, 元気 works both as な-adjective and as a noun, but 静か can only work a な-adjective. 
+In the example above, 元気 works both as a な-adjective and as a noun, but 静か can only work as a な-adjective. 
 
 Some resources also recognize so-called の-adjectives, which are just nouns that are a bit special because they can turn into having an adjective-like meaning using の instead of な. 
 

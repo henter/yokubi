@@ -1,6 +1,6 @@
 # Basic politeness and ます form
 
-Let's now talk about politeness. In Japanese, the polite tone of the language presents itself as a specific grammatical feature. This means that when you are speaking politely, the way you build sentences, conjugations, and even the words you choose will change from when you’re speaking casually. There are various degrees of politeness and we will only cover the basic stuff here. You can look at the intermission if you want to know more, but it is entirely optional.
+Let's now talk about politeness. In Japanese, the polite tone of the language presents itself as a specific grammatical feature. This means that when you are speaking politely, the way you build sentences, conjugations, and even the words you choose will differ from when you’re speaking casually. There are various degrees of politeness and we will only cover the basic stuff here. You can look at the intermission if you want to know more, but it is entirely optional.
 
 Basic polite verbs are constructed with the auxiliary verb ます attached to a stem (which is often called the “ます-stem”). For ichidan verbs, ます attaches to the part of the verb without る. For godan verbs, change the u to an i, then attach ます.
 
@@ -15,7 +15,7 @@ Basic polite verbs are constructed with the auxiliary verb ます attached to a 
 Do not attach ます after です, it doesn't work. Although you might see it in some media from characters that speak intentionally incorrect Japanese. Do not copy them. 
 </div>
 
-In [lesson 9](./Lesson9.md), we mentioned that the past tense of godan verbs comes from the "i" stem. While for some verbs (死ぬ \-\> 死んだ) this stem shows an exception in past form, this does not happen with ます:
+In [lesson 9](./Lesson9.md), we mentioned that the past tense of godan verbs comes from the "i" stem. While for some verbs (死ぬ \-\> 死んだ) this stem shows an exception in past form, this does not happen with ます.
 
 Here's a comparison between the past tense and ます form of each type of godan verbs. Don't memorize this.
 
@@ -45,7 +45,7 @@ Since ます itself is an auxiliary verb that ends like any other verb, it can a
 In modern Japanese, there is another way to make the polite negative past tense of verbs, and that is to just add です after the non-polite negative past tense:
 
 <pre>
-死なかった		->	 死なかったです  
+死ななかった		->	 死ななかったです  
 Did not die (casual)	->	 Did not die (polite)
 </pre>
 
