@@ -14,7 +14,7 @@ It's a pen.
 It is a cat.
 </pre>
 
-The difference between だ and です is generally a matter of politeness and formality. If there’s one thing you need to remember is that, while です is the polite version of だ, the two aren’t always interchangeable and have a lot of different uses. You will learn them later.
+The difference between だ and です is generally a matter of politeness and formality. One thing important to remember is that, while です is the polite version of だ, the two aren’t always interchangeable and have a lot of different uses. You will learn them later.
 
 Later you will also see です get used in places where English wouldn't allow "is". This is because it can even act just like a filler word with no added meaning.
 
