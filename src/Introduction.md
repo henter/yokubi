@@ -1,4 +1,4 @@
-![logo](Images/logo.svg)
+![logo](images/logo.svg)
 
 Welcome to **Yokubi**!
 

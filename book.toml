@@ -7,5 +7,5 @@ title = "Yokubi"
 
 [output.html]
 default-theme = "Navy"
-additional-css = ["custom.css"]
+additional-css = ["style/custom.css"]
 no-section-label = true
