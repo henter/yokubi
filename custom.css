@@ -5,4 +5,6 @@ pre {
   background-color: transparent;
   background: rgba(200, 200, 200, 0.04);
   padding: 0.5em;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
 }
