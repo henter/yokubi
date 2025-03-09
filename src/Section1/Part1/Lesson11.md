@@ -45,7 +45,7 @@ The parts in parenthesis are often dropped or removed because just by using て�
 
 We will later see other usages of て auxiliary to add a sense of directionality to phrases like ていく and てくる. 
 
-For い adjectives, there is another version of the て form that is often used with an “auxiliary” nuance. In this form, rather than て, it becomes で and attaches directly after the non-conjugated い. It is pretty much only used with negative verbs.
+For verbs and adjectives in ない form, there is another version of the て form that is often used with an “auxiliary” nuance. In this form, rather than なくて, it becomes ないで instead.
 
 <pre>
 食べないで待つ
