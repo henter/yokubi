@@ -27,8 +27,20 @@
   - [Lesson 16: Irregular and する verbs](./Section1/Part1/Lesson16.md)
   - [Lesson 17: Basic politeness and ます form](./Section1/Part1/Lesson17.md)
   - [Lesson 18: Existence with いる and ある, with である and っす](./Section1/Part1/Lesson18.md)
+- [Part 2: Getting Going](./Section1/Part2.md)
+  - [Lesson 19: Questions with か](./Section1/Part2/Lesson19.md)
+  - [Lesson 20: Questions with の and explanatory のだ](./Section1/Part2/Lesson20.md)
+  - [Lesson 21: Getting more with も and と](./Section1/Part2/Lesson21.md)
+  - [Lesson 22: Enduring actions and state with ている and てある](./Section1/Part2/Lesson22.md)
+  - [Lesson 23: Demonstratives with こそあど words](./Section1/Part2/Lesson23.md)
+  - [Lesson 24: Passive form and transitive pairs](./Section1/Part2/Lesson24.md)
+  - [Lesson 25: Potential form and できる](./Section1/Part2/Lesson25.md)
+  - [Lesson 26: Expressing volition and desire with たい and ほしい](./Section1/Part2/Lesson26.md)
+  - [Lesson 27: Saying "if" with ば](./Section1/Part2/Lesson27.md)
+  - [Lesson 28: Verbs Review](./Section1/Part2/Lesson28.md)
 
 # Section Two: ABSOLUTE TERRITORY
 - [Introduction](./Section2/Section2.md)
 ---
-[Credits](./Credits.md)
+
+- [Credits](./Credits.md)

@@ -1,5 +1,9 @@
 # ABSOLUTE TERRITORY
 
+<div class="warning">
+You have reached the end of the currently published articles of Yokubi. Most of the guide is still a draft and work-in-progress. Section 2 will be coming soon(tm)!
+</div>
+
 At this point, you should begin reading, skimming later lessons to see what the guide has to say about the unfamiliar grammar you encounter. The remainder of this guide is half guidance, half reference.
 
 Language learning takes time, even if you put in a lot of effort. You have to apply yourself, but you won't see big results until you do it for a long enough time. Think about what that means. The very first time you start reading, everything is going to feel really weird and you're not going to "get it". That's okay. It'd be weird if you didn't react that way. But reading (or using other forms of input, including listening) is the only way to make that weird feeling go away.
