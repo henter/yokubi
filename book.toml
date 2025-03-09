@@ -9,3 +9,6 @@ title = "Yokubi"
 default-theme = "Navy"
 additional-css = ["style/custom.css"]
 no-section-label = true
+
+[output.html.fold]
+enable = true

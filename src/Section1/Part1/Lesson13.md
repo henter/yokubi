@@ -18,7 +18,7 @@ To work <b>in</b> a school
 
 で originally comes from contracting the compound particle にて. You may still see にて in old fashioned or formal writing/announcements.
 
-で can also be used like it's the て form of だ. It's not actually the て form of だ, but it is close enough for Japanese grammar to say it is. In this usage, it assumes the typical conjunction usage of て form as with verbs or adjectives.
+で can also be used like it's the て form of だ. In this usage, it assumes the typical conjunction usage of て form as with verbs or adjectives, except it works with nouns or noun-like words.
 
 <pre>
 中学生<b>で</b>一人暮らしはできない

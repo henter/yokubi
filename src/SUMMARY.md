@@ -41,6 +41,11 @@
 
 # Section Two: ABSOLUTE TERRITORY
 - [Introduction](./Section2/Section2.md)
+- [Part 3: TBD](./Section2/Part3.md)
+  - [Lesson 29: Sentence ending particles with ね, な, よ, ぜ, ぞ, わ, さ](./Section2/Part3/Lesson29.md)
+  - [Lesson 30: Quotes with と, って, and という](./Section2/Part3/Lesson30.md)
+  - [Lesson 31: Adverbs](./Section2/Part3/Lesson31.md)
 ---
+
 
 - [Credits](./Credits.md)
