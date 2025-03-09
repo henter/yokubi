@@ -43,7 +43,7 @@ What did you say?
 
 As you can see from the second example, the verb (“said”, “thought”, etc) can be often dropped if it’s obvious from context and tone.
 
-In some usages って can also be used similar to は as a topic. In these cases it’s not really a quote. It's just an alternative topic marker.
+In some usages って can also take the role of topic, similar to は. In these cases it’s not really a quote. It's just an alternative topic marker.
 
 <pre>
 田中さん<b>って</b>いい人だね   
