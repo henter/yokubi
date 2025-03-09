@@ -1,6 +1,6 @@
 [book]
 authors = ["Morg"]
-language = "jp"
+language = "ja"
 multilingual = false
 src = "src"
 title = "Yokubi"
