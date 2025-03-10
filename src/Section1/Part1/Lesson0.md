@@ -4,7 +4,7 @@ When you approach the study of a new language, especially one like Japanese that
 
 No matter what, if you cannot “parse” a sentence, you will not understand its meaning. If you do not understand its meaning, you cannot acquire the language used in it. This lesson will give you a very brief and quick rundown of what to expect to achieve basic “parsing” abilities.
 
-Japanese is an SOV language (Sentence-Object-Verb), unlike English which is an SVO (Subject-Verb-Object) one. 
+Japanese is an SOV language (Subject-Object-Verb), unlike English which is an SVO (Subject-Verb-Object) one. 
 
 <pre>
 English: I eat (an) apple
