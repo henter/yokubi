@@ -4,19 +4,31 @@ Another question particle similar to か is の. Questions asked with の carry 
 
 To ask questions with の, in casual form you just add の at the end of verbs and い-adjectives, and なの after nouns and な-adjectives (without だ). The question mark is optional.
 
-<pre>
-学生(だ) -> 学生なの？
-He is a student -> Is he a student?
+|                 |                  |
+|-----------------|------------------|
+| 学生(だ)        | 学生なの？       |
+| He is a student | Is he a student? |
 
-普通(だ) -> 普通なの？
-It is normal -> Is it normal?
+<br />
 
-寒い -> 寒いの？
-It is cold -> Is it cold?
+|              |               |
+|--------------|---------------|
+| 普通(だ)     | 普通なの？    |
+| It is normal | Is it normal? |
 
-魚を食べる -> 魚を食べるの？
-I eat fish -> You eat fish?
-</pre>
+<br />
+
+|            |             |
+|------------|-------------|
+| 寒い       | 寒いの？    |
+| It is cold | Is it cold? |
+
+<br />
+
+|            |                |
+|------------|----------------|
+| 魚を食べる | 魚を食べるの？ |
+| I eat fish | You eat fish?  |
 
 In polite form, we just add ですか after the の, even if it’s a verb sentence. This is commonly slurred in speech as んですか instead of のですか
 

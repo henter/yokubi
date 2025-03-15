@@ -1,7 +1,7 @@
 # ABSOLUTE TERRITORY
 
 <div class="warning">
-You have reached the end of the currently published articles of Yokubi. Most of the guide is still a draft and work-in-progress. Section 2 will be coming soon(tm)!
+Most of the guide beyond this point is still a draft and work-in-progress. I'm still adding new lessons until we reach parity with the old Sakubi guide. If you want a complete guide, you'll have to wait a bit longer, but please feel free to browse around.
 </div>
 
 At this point, you should begin reading, skimming later lessons to see what the guide has to say about the unfamiliar grammar you encounter. The remainder of this guide is half guidance, half reference.

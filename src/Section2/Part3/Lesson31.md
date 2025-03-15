@@ -2,7 +2,7 @@
 
 Adverbs are words that describe verbs, adjectives, and even other adverbs. They provide additional information like the manner in which an action is performed. In English, the "liberally" in "Please add sugar liberally" is an adverb.
 
-Japanese has "true" adverbs that can be used with no special particle or marker and can be placed (almost) anywhere in a sentence. 
+Japanese has "true" adverbs (副詞) that can be used with no special particle or marker and can be placed (almost) anywhere in a sentence. 
 
 <pre>
 <b>まったく</b>意味がわからない

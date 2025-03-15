@@ -41,11 +41,14 @@
 
 # Section Two: ABSOLUTE TERRITORY
 - [Introduction](./Section2/Section2.md)
-- [Part 3: TBD](./Section2/Part3.md)
+- [Part 3: Growing Our Sentences](./Section2/Part3.md)
   - [Lesson 29: Sentence ending particles with ね, な, よ, ぜ, ぞ, わ, さ](./Section2/Part3/Lesson29.md)
   - [Lesson 30: Quotes with と, って, and という](./Section2/Part3/Lesson30.md)
   - [Lesson 31: Adverbs](./Section2/Part3/Lesson31.md)
   - [Lesson 32: Asking kindly with なさい and prohibition with な](./Section2/Part3/Lesson32.md)
+  - [Lesson 33: Question words: なに, だれ, どれ, いつ, etc](./Section2/Part3/Lesson33.md)
+  - [Lesson 34: か, も, and でも as question word modifiers](./Section2/Part3/Lesson34.md)
+  - [Lesson 35: Generic nouns and nominalization with 事, 物, ところ, and の](./Section2/Part3/Lesson35.md)
 ---
 
 
