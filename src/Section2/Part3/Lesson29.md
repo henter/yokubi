@@ -36,7 +36,7 @@ To show a simple difference in usage between よ and ね:
 This tastes good
 </pre>
 
-Both of these sentences mean the same thing at the core, but ね can only be used if both speaker and listener have tasted the food, while よ is used when the speaker wants the listener (who hasn’t tasted the food) that they believe food is good. 
+Both of these sentences mean the same thing at the core, but ね can only be used if both speaker and listener have tasted the food, while よ is used when the speaker wants the listener (who hasn’t tasted the food) to know that they think food is good. 
 
 ぞ indicates assertion, it can sound a bit coarse, but it's not necessarily impolite. It can feel slightly masculine, but in certain expressions and contexts women use it too.
 
@@ -77,7 +77,7 @@ There are many more particles like these and covering all of them is an unrealis
 
 A lot of these particles can also be chained together (よ \+ ね \-\> よね) and there is an implicit order of precedence (ねよ is wrong, よね is correct). We won’t be covering them but just be aware that they assume a meaning that means more than just the sum of its parts. All vibes, of course.
 
-One last note to mention is the role of だ after nouns and な-adjectives at end of sentences before attaching particles. The “proper” way in Japanese is to use だ (or です) if the sentence ends with a noun or な-adjective, and then add the particle right after:
+One last note to mention is the role of だ after nouns and な-adjectives at the end of sentences before attaching particles. The “proper” way in Japanese is to use だ (or です) if the sentence ends with a noun or な-adjective, and then add the particle right after:
 
 <pre>
 元気<b>だ</b>よ
