@@ -2,7 +2,7 @@
 
 Japanese has many ways to say “if” and provide conditional statements. In this lesson we will introduce the four main ones. Don’t try to memorize this completely, just learn to recognize each of them when you encounter them and know they roughly mean "if" or "when". 
 
-The order of conditionals in Japanese state first the condition, and then the resulting action. Conditionals are one way we can connect two “A does B” type of sentences, in a structure like “If A does B, then C does D”. Obviously, structures like “If A is B, then C does D” or any other combinations are acceptable too.
+The order of conditionals in Japanese states first the condition, and then the resulting action. Conditionals are one way we can connect two “A does B” type sentences in a structure like “If A does B, then C does D”. Obviously, structures like “If A is B, then C does D” or any other combinations are acceptable too.
 
 The first conditional we will see is the ば form which turns verbs into a condition. The conjugation is formed by changing the u at the end of a verb into an e, then adding ば. Basically, for godan verbs, you replace the u with an e, and for ichidan verbs, you add れ after the stem.
 
@@ -65,7 +65,7 @@ There is another special usage of たら, usually directly after names, in the f
 Come on, dad, get your shit together!
 </pre>
 
-たら and ば in the hypothetical sense can often be entirely interchangeable. There’s even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn’t ask questions like “why did this personr use たら instead of ば?”. Just accept it.
+たら and ば in the hypothetical sense can often be interchangeable. There’s even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn’t ask questions like “why did this personr use たら instead of ば?”. Just accept it.
 
 The last conditional for this lesson is なら. なら is a strictly hypothetical conditional. It implies that the condition is assumed true in the hypothetical world where the statement takes place.
 This means that when you say X なら Y, the meaning is close to something like “If we consider the case that X is true, then Y”, but it doesn't sound as verbose as it does in English. It's a very common way to phrase things.
@@ -86,7 +86,7 @@ The act of 飲む would have to happen before the condition of 乗る, hence the
 
 Sometimes, なら can show up as ならば. The meaning is the same, but it feels more literary.
 
-With verbs and い adjectives, sometimes の can be placed between the verb and なら. This can give some additional nuance (similar to the explanatory の in のだ) but do not worry about trying to figure it out here. The version with の can often sound more literary and formal.
+With verbs and い adjectives, sometimes の can be placed between the verb and なら. This can give some additional nuance (similar to the explanatory の in のだ) but you don't have to remember this. Just remember that the version with の can sound more literary and formal.
 
 <pre>
 そんなに知りたい<b>のなら</b>、教えてあげましょう。

@@ -11,9 +11,23 @@ Eat, boy.
 
 見<b>て</b>！
 Look!
+</pre>
+
+It can also be used with negative verbs in the form of ないでください to express a soft prohibition or negative request. 
+
+<pre>
+バカなことを言わない<b>でください</b>
+Don’t say stupid things, please
 
 食べ<b>ないで</b>
 Please don't eat.
+</pre>
+
+ください can also be used as standalone verb, rather than an auxiliary. In this case, it means “please give me”. You can use it to order stuff in shops.
+
+<pre>
+肉まんを<b>ください</b>
+Please give me a nikuman
 </pre>
 
 It is worth noting there are other ways to make orders and imperative commands in Japanese. The て(ください) form is rather weak and fairly soft order. It’s closer to a polite request rather than a straight up command. 
