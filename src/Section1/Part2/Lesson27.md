@@ -14,7 +14,7 @@ The first conditional we will see is the ば form which turns verbs into a condi
 Is it okay <b>if</b> I kill this dude?
 </pre>
 
-ば implies that the condition is sufficient for the result to come to happen. It’s a true logical “if”. This can even be used for certain requests, like "If you're late, just call and I'll handle everything". However, ば doesn't imply that the condition will eventually happen, so it can’t be used in things like "When you come around, come see me". 
+ば implies that the condition is sufficient for the result to come to happen. It’s a true logical “if”. This can even be used for certain requests, like "If you're late, just call and I'll handle everything". However, ば doesn't imply that the condition will eventually happen, so it can’t be used in things like "When you come around, come see me". In narration, it can sometimes mean "X happened, and then Y", but this non-conditional usage is fairly limited and not as common outside of literary works. 
 
 For the ば conditional of the copula だ, we need to “expand” it into である and conjugate that instead.
 
