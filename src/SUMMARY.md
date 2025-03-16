@@ -49,6 +49,7 @@
   - [Lesson 33: Question words: なに, だれ, どれ, いつ, etc](./Section2/Part3/Lesson33.md)
   - [Lesson 34: か, も, and でも as question word modifiers](./Section2/Part3/Lesson34.md)
   - [Lesson 35: Generic nouns and nominalization with 事, 物, ところ, and の](./Section2/Part3/Lesson35.md)
+  - [Lesson 36: Making lists with や and とか and など and と and か and に](./Section2/Part3/Lesson36.md)
 ---
 
 
