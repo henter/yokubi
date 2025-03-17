@@ -60,6 +60,8 @@
   - [Lesson 44: Wrongness with だめ, いけない, ならない, and how to say "must"](./Section2/Part3/Lesson44.md)
 - [Part 4: Adding Spices and "The Rest"](./Section2/Part4.md)
   - [Lesson 45: Listing and repeating actions with 〜たり〜たり and ては](./Section2/Part4/Lesson45.md)
+  - [Lesson 46: "Just" with だけ, のみ, ばかり, and しか](./Section2/Part4/Lesson46.md)
+  - [Lesson 47: Still, already, and yet with もう, まだ, and また](./Section2/Part4/Lesson47.md)
 ---
 
 
