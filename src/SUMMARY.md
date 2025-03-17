@@ -62,6 +62,10 @@
   - [Lesson 45: Listing and repeating actions with 〜たり〜たり and ては](./Section2/Part4/Lesson45.md)
   - [Lesson 46: "Just" with だけ, のみ, ばかり, and しか](./Section2/Part4/Lesson46.md)
   - [Lesson 47: Still, already, and yet with もう, まだ, and また](./Section2/Part4/Lesson47.md)
+  - [Lesson 48: Permission with いい and negative invitations with ませんか](./Section2/Part4/Lesson48.md)
+  - [Lesson 49: The many uses of とする](./Section2/Part4/Lesson49.md)
+  - [Lesson 50: Trying stuff with てみる](./Section2/Part4/Lesson50.md)
+  - [Lesson 51: Thinking and feeling with と思う](./Section2/Part4/Lesson51.md)
 ---
 
 
