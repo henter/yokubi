@@ -66,6 +66,11 @@
   - [Lesson 49: The many uses of とする](./Section2/Part4/Lesson49.md)
   - [Lesson 50: Trying stuff with てみる](./Section2/Part4/Lesson50.md)
   - [Lesson 51: Thinking and feeling with と思う](./Section2/Part4/Lesson51.md)
+  - [Lesson 52: More questions with っけ, かな, かい, だい, じゃない, and じゃん](./Section2/Part4/Lesson52.md)
+  - [Lesson 53: The causative form](./Section2/Part4/Lesson53.md)
+  - [Lesson 54: Making and becoming with なる and する](./Section2/Part4/Lesson54.md)
+  - [Lesson 55: Reflexes with 自分](./Section2/Part4/Lesson55.md)
+  - [Lesson 56: More negatives with なくて, ないで, ず and ずに](./Section2/Part4/Lesson56.md)
 ---
 
 
