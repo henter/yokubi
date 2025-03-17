@@ -59,6 +59,7 @@
   - [Lesson 43: Likeness and hearsay with みたい, らしい, ぽい, and そう](./Section2/Part3/Lesson43.md)
   - [Lesson 44: Wrongness with だめ, いけない, ならない, and how to say "must"](./Section2/Part3/Lesson44.md)
 - [Part 4: Adding Spices and "The Rest"](./Section2/Part4.md)
+  - [Lesson 45: Listing and repeating actions with 〜たり〜たり and ては](./Section2/Part4/Lesson45.md)
 ---
 
 
