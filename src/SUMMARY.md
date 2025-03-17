@@ -49,7 +49,15 @@
   - [Lesson 33: Question words: なに, だれ, どれ, いつ, etc](./Section2/Part3/Lesson33.md)
   - [Lesson 34: か, も, and でも as question word modifiers](./Section2/Part3/Lesson34.md)
   - [Lesson 35: Generic nouns and nominalization with 事, 物, ところ, and の](./Section2/Part3/Lesson35.md)
-  - [Lesson 36: Making lists with や and とか and など and と and か and に](./Section2/Part3/Lesson36.md)
+  - [Lesson 36: Making lists with や, とか, など, と, か, and に](./Section2/Part3/Lesson36.md)
+  - [Lesson 37: Adversatives with が, けど, しかし, and ても/でも](./Section2/Part3/Lesson37.md)
+  - [Lesson 38: Concurrence with ながら, あいだ, うちに, and つつ](./Section2/Part3/Lesson38.md)
+  - [Lesson 39: Reasoning with から そして ので で](./Section2/Part3/Lesson39.md)
+  - [Lesson 40: Comparing things with より and の方が](./Section2/Part3/Lesson40.md)
+  - [Lesson 41: Counting things](./Section2/Part3/Lesson41.md)
+  - [Lesson 42: Linking conjunctions のに, ように, ために, せいで, and おかげで](./Section2/Part3/Lesson42.md)
+  - [Lesson 43: Likeness and hearsay with みたい, らしい, ぽい, and そう](./Section2/Part3/Lesson43.md)
+  - [Lesson 44: Wrongness with だめ, いけない, ならない, and how to say "must"](./Section2/Part3/Lesson44.md)
 ---
 
 
