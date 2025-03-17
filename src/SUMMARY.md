@@ -58,6 +58,7 @@
   - [Lesson 42: Linking conjunctions のに, ように, ために, せいで, and おかげで](./Section2/Part3/Lesson42.md)
   - [Lesson 43: Likeness and hearsay with みたい, らしい, ぽい, and そう](./Section2/Part3/Lesson43.md)
   - [Lesson 44: Wrongness with だめ, いけない, ならない, and how to say "must"](./Section2/Part3/Lesson44.md)
+- [Part 4: Adding Spices and "The Rest"](./Section2/Part4.md)
 ---
 
 
