@@ -80,6 +80,5 @@
   - [Lesson 63: A bit more: Some extra particles and auxiliaries](./Section2/Part4/Lesson63.md)
 - [Closing Words](ClosingWords.md)
 ---
-
-
+- [Frequently Asked Questions](FAQ.md)
 - [Credits](./Credits.md)
