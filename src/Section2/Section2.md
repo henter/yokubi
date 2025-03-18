@@ -1,9 +1,5 @@
 # ABSOLUTE TERRITORY
 
-<div class="warning">
-Most of the guide beyond this point is still a draft and work-in-progress. I'm still adding new lessons until we reach parity with the old Sakubi guide. If you want a complete guide, you'll have to wait a bit longer, but please feel free to browse around.
-</div>
-
 At this point, you should begin reading, skimming later lessons to see what the guide has to say about the unfamiliar grammar you encounter. The remainder of this guide is half guidance, half reference.
 
 Language learning takes time, even if you put in a lot of effort. You have to apply yourself, but you won't see big results until you do it for a long enough time. Think about what that means. The very first time you start reading, everything is going to feel really weird and you're not going to "get it". That's okay. It'd be weird if you didn't react that way. But reading (or using other forms of input, including listening) is the only way to make that weird feeling go away.
