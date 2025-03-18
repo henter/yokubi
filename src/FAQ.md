@@ -18,13 +18,14 @@ I originally tried to keep track of all the changes, both minor and major, with 
 
 - Lessons have been split into individual pages under an mdbook format rather than a single standalone web page. This makes it easier to browse and share individual lessons with other learners.
 - Dropped words like “one form” and “five forms” in favor of ichidan and godan terminology for verbs
-- A few lessons and grammar points have been split into separate lessons. Sakubi has 54 lesons. Yokubi has 63. 
+- A few lessons and grammar points have been split into separate lessons. Sakubi has 54 lessons. Yokubi has 63. 
 - Added a new lesson on negative state of being
+- Added a lesson 0 on the anatomy of Japanese sentences
 - Several lessons have been reshuffled and re-ordered to have more reasonable priority sorting of importance
 - Added a section on する verbs
-- Added a lesson on ようとする and てみる (rather than an optional section) i
+- Added a lesson on ようとする and てみる (rather than an optional section)
 - Added a specific lesson for たり〜たり
-- Grouped together some "Parts". Sakubi split Setion 1 and 2 into several parts. Yokubi has 2 sections with 2 parts each.
+- Grouped together some "Parts". Sakubi split Section 1 and 2 into several parts. Yokubi has 2 sections with 2 parts each.
 - Removed the notion of "intermissions" and "hidden/optional lessons". An appendix index is being planned instead (This is not finished yet)
 - Almost every single example sentence has been re-sourced (from native media) and re-sorted by difficulty/appropriateness. Aside a few exceptions, example sentences will not show grammar points that haven't been covered yet.
 
