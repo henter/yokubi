@@ -7,4 +7,5 @@ pre {
   padding: 0.5em;
   white-space: pre-wrap;
   overflow-wrap: anywhere;
+  font-family: "Open Sans", sans-serif;
 }
