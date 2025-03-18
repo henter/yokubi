@@ -6,10 +6,8 @@ The **Common** Grammar Guide.
 
 *Dedicated to all those who learn, want to learn, and **will** learn.* 
 
-To get started [CLICK HERE](./Before-you-begin.md)
-
 <div class="warning">
-This guide is a re-write and re-arrangement of <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>. The rewrite is <b>still not finished</b>. You can read and enjoy Part 1 and 2, but be aware that the articles are still incomplete and there's a lot of content still missing.
+This guide is a complete re-write and re-arrangement of <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>. The full rewrite is <b>still not finished</b>, but the main content and guide are done.
 </div>
 
 Yokubi is an **open** and **community-maintained** project. We accept all kinds of helpful contributions. 
@@ -18,6 +16,4 @@ You are welcome to join our [discord community](https://discord.gg/KZj4dVFDzu) f
 
 If you want to contribute, you can view the project [on github](https://github.com/Morgawr/yokubi) and file issues and pull requests. 
 
-<div class="warning">
-Feedback on missing content will be left pending until we finish all main lessons in the guide. It is still in draft mode.
-</div>
+**DO NOT** skip reading the [Before you begin](./Before-you-begin.md) and [Preamble](./Preamble.md) pages. They give you instructions on how to use this guide.

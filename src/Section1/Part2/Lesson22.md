@@ -19,6 +19,13 @@ The い in ている is commonly dropped in conversation, both in writing and in
 I'm eating.
 </pre>
 
+ておる is a formal variant of ている. おる and いる have mostly the same meaning. ておる can be spoken as とる.
+
+<pre>
+何を言っ<b>ておる</b>のだ。
+What are you saying
+</pre>
+
 てある is about something being in an enduring state resulting from someone’s action. てある always expresses a resulting state, **never** an action.
 
 <pre>

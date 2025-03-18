@@ -1,9 +1,5 @@
 # Expressing volition and desire with たい and ほしい
 
-<div class="warning">
-TODO: THIS SECTION IS STILL A DRAFT AND REQUIRES ADDITIONAL PROOFREADING
-</div>
-
 In this lesson, we're learning three ways we can express desire or intent in Japanese.
 
 The "volitional" form, おう/よう, says that you want to or will do something, or invites volition in other people like "let's X". It's also used in compound constructions about volitional action. The volitional form of godan verbs is -ou, and the volitional form of ichidan verbs is よう. It's pronounced with a "long o", not お plus う.
@@ -41,18 +37,18 @@ I want to die.
 I want to eat ice cream.
 </pre>
 
-In the last example sentence, を is acceptable too. In respect to が and を, たい works similarly to potential verbs. Either が or を can be used to mark the object/target of desire, although different verbs may have specific preferences whether to use one or the other. Don’t try to memorize this, just know it exists and is valid Japanese. 
+In the last example sentence, を is acceptable too. In respect to が and を, たい works similarly to potential verbs. Either が or を can be used to mark the object/target of desire, although different verbs may have specific preferences about one or the other. Don’t try to memorize this, just know it exists and is valid Japanese. 
 
-The final way of wanting is 欲しい, an い-adjective.
+The last way to express wanting is with 欲しい, an い-adjective.
 
 <pre>
 アイスがほしい
 I want ice cream
 </pre>
 
-Note: Similarly to たい, ほしい also falls into the category of quirky adjectives where が marks the object of desire, and can sometimes be replaced with を. However, unlike with たい, をほしい is very much less proper and less common. You might still see it, but a lot of people will consider it awkward Japanese. It’s best to avoid using it. 
+Note: Similarly to たい, ほしい also falls into the category of quirky adjectives where が marks the object of desire, and can sometimes be replaced with を. However, unlike with たい, をほしい is very much less proper and less common. You might still see it, but a lot of people will consider it awkward Japanese. It’s best to avoid using it.
 
-Another quirk of ほしい is that it can be used as auxiliary after the て form of a verb to issue soft commands or requests. 
+Another quirk of ほしい is that it can be used as auxiliary after the て form of a verb to issue soft commands or requests.
 
 <pre>
 その話はやめてほしい

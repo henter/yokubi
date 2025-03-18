@@ -6,7 +6,7 @@
 
 ---
 
-# Section One: ABSOLUTE BEGINNER
+# ABSOLUTE BEGINNER
 - [Part 1: Getting Started](./Section1/Part1.md)
   - [Lesson 0: The anatomy of Japanese sentences](./Section1/Part1/Lesson0.md)
   - [Lesson 1: State of being with だ and です](./Section1/Part1/Lesson1.md)
@@ -39,8 +39,8 @@
   - [Lesson 27: Saying "if" and "when" with the four conditionals](./Section1/Part2/Lesson27.md)
   - [Lesson 28: Verbs Review](./Section1/Part2/Lesson28.md)
 
-# Section Two: ABSOLUTE TERRITORY
-- [Introduction](./Section2/Section2.md)
+# ABSOLUTE TERRITORY
+- [Section 2: Introduction](./Section2/Section2.md)
 - [Part 3: Growing Our Sentences](./Section2/Part3.md)
   - [Lesson 29: Sentence ending particles with ね, な, よ, ぜ, ぞ, わ, さ](./Section2/Part3/Lesson29.md)
   - [Lesson 30: Quotes with と, って, and という](./Section2/Part3/Lesson30.md)
@@ -65,12 +65,20 @@
   - [Lesson 48: Permission with いい and negative invitations with ませんか](./Section2/Part4/Lesson48.md)
   - [Lesson 49: The many uses of とする](./Section2/Part4/Lesson49.md)
   - [Lesson 50: Trying stuff with てみる](./Section2/Part4/Lesson50.md)
-  - [Lesson 51: Thinking and feeling with と思う](./Section2/Part4/Lesson51.md)
+  - [Lesson 51: Thinking and feeling with と思う and と考える](./Section2/Part4/Lesson51.md)
   - [Lesson 52: More questions with っけ, かな, かい, だい, じゃない, and じゃん](./Section2/Part4/Lesson52.md)
   - [Lesson 53: The causative form](./Section2/Part4/Lesson53.md)
   - [Lesson 54: Making and becoming with なる and する](./Section2/Part4/Lesson54.md)
   - [Lesson 55: Reflexes with 自分](./Section2/Part4/Lesson55.md)
   - [Lesson 56: More negatives with なくて, ないで, ず and ずに](./Section2/Part4/Lesson56.md)
+  - [Lesson 57: Auxiliaries of regret and peace of mind with てしまう and ておく](./Section2/Part4/Lesson57.md)
+  - [Lesson 58: Directionality with ていく and てくる](./Section2/Part4/Lesson58.md)
+  - [Lesson 59: The colloquial usages of だって](./Section2/Part4/Lesson59.md)
+  - [Lesson 60: Expectation with わけ, はず, べき, ものだ, and かもしれない](./Section2/Part4/Lesson60.md)
+  - [Lesson 61: Approximately with ころ and くらい, and limits with まで, ほど, すぎる](./Section2/Part4/Lesson61.md)
+  - [Lesson 62: Time references with 後, 前, 先, and 時](./Section2/Part4/Lesson62.md)
+  - [Lesson 63: A bit more: Some extra particles and auxiliaries](./Section2/Part4/Lesson63.md)
+- [Closing Words](ClosingWords.md)
 ---
 
 
