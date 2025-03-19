@@ -1,4 +1,4 @@
-# Potenial form and できる
+# Potential form and できる
 
 The potential form exists so that people can say that something "can be done". For godan verbs, the u is replaced with an e, then added る. So "u" \-\> "eru". For ichidan verbs, it is identical to the passive conjugation. Yes, that is confusing. It’s so confusing that sometimes you might come across sentences where it’s unclear/intentionally ambiguous whether or not an ichidan verb is used in passive or potential form. You just have to vibe with it.
 
