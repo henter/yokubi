@@ -49,6 +49,6 @@ If you believe this matches your idea of Japanese learning, then start from the 
 
 ### What does yokubi mean?
 
-Just like [Imabi - 今日](https://imabi.org/) and [Sakubi - 昨日](https://sakubi.neocities.org/) are puns on the words 今日 (today) and 昨日 (yesterday), Yokubi is a pun on the word 翌日, as in the following day. It also doubles down as an inside joke I have among friends, where "yoku" (よく) is used **incorrectly** as a shorthand version of よくある文法 or よくある言葉 (= "common grammar" or "common word"). 
+Just like [Imabi - 今日](https://imabi.org/) and [Sakubi - 昨日](https://sakubi.neocities.org/) are puns on the words 今日 (today) and 昨日 (yesterday), Yokubi is a pun on the word 翌日, as in the following day. It also doubles as an inside joke I have among friends, where "yoku" (よく) is used **incorrectly** as a shorthand version of よくある文法 or よくある言葉 (= "common grammar" or "common word"). 
 
 And just like that, Yokubi is the **common** grammar guide.
