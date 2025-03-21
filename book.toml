@@ -6,8 +6,12 @@ title = "Yokubi"
 
 [output.html]
 default-theme = "Navy"
+additional-js = ["js/lunr.stemmer.support.js", "js/tinyseg.js", "js/lunr.jp.js", "js/lunr.multi.js", "js/load-lunr-plugin.js"]
 additional-css = ["style/custom.css"]
 no-section-label = true
 
 [output.html.fold]
 enable = true
+
+[output.html.search]
+use-boolean-and = true   # multiple search terms combined with AND opposed to OR
