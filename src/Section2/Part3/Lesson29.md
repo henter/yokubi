@@ -1,4 +1,4 @@
-# Sentence ending particles with ね, な, よ, ぜ, ぞ, わ, さ
+# Sentence ending particles with ね, な, よ, ぞ, ぜ, わ
 
 Some particles can go at the end of sentences and are used to show how the speaker feels or provide additional emotional impact. The descriptions given in this lesson are not literal. They're just a way to represent the underlying tone. This is an incredibly nuanced topic and it can only be acquired through a lot of exposure. 
 

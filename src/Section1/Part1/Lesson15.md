@@ -10,7 +10,7 @@ Stupid kid
 Beloved person
 </pre>
 
-Now that we learned what relative clauses are, it’s good to learn that the term “attributely” basically means “as a relative clause”.
+Now that we learned what relative clauses are, it’s good to learn that the term “attributively” basically means “as a relative clause”.
 
 At the end of sentences, な-adjectives can look like nouns, and just like nouns they can end sentences with だ
 

@@ -65,7 +65,7 @@ There is another special usage of たら, usually directly after names, in the f
 Come on, dad, get your shit together!
 </pre>
 
-たら and ば in the hypothetical sense can often be interchangeable. There’s even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn’t ask questions like “why did this personr use たら instead of ば?”. Just accept it.
+たら and ば in the hypothetical sense can often be interchangeable. There’s even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn’t ask questions like “why did this person use たら instead of ば?”. Just accept it.
 
 The last conditional for this lesson is なら. なら is a strictly hypothetical conditional. It implies that the condition is assumed true in the hypothetical world where the statement takes place.
 This means that when you say X なら Y, the meaning is close to something like “If we consider the case that X is true, then Y”, but it doesn't sound as verbose as it does in English. It's a very common way to phrase things.
