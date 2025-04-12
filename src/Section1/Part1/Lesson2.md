@@ -43,6 +43,6 @@ Japanese has prefixes and suffixes just like English. This is different from com
 研究者・けんきゅうしゃ researcher
 </pre>
 
-者, pronounced しゃ here, is a suffix. It can act like a piece of a compound word, but can't stand on its own as its own word. When 者 appears on its own in a sentence, it's a different word, and not pronounced as しゃ. *Thanks, kanji*.
+者, pronounced しゃ here, is a suffix. It can act like a piece of a compound word, but can't stand on its own as its own word. When 者 appears on its own in a sentence, it's a different word, and not pronounced しゃ. *Thanks, kanji*.
 
 Some words can have multiple ways they can be read. 明日, meaning "tomorrow", is normally read as あした, but can also be read あす (formal, not rare) or みょうにち (even more formal, much more rare). Watch out for reading variation when you start reading, or you'll be super confused.  
