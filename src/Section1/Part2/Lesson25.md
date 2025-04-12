@@ -41,4 +41,13 @@ I can eat pizza (potential, standard form)
 
 What is going on here? All three of those options are valid and mean mostly the same thing. Also, depending on the context and surrounding phrases, the は in those examples can be が too (yes, you can even have 私がピザが食べられる, a double が sentence). 
 
-All you need to remember is that with potential verbs, が can be used to *also* mark the object of the action, not only the subject. And in those sentences, the subject can sometimes be marked by に. Some people consider the usage of を like in the example above to be improper, however it is incredibly subjective and you will see it so often that considering it improper is just for old men yelling at clouds. The を version tends to be more common in relative clauses or very long and complicated sentences. 
+All you need to remember is that with potential verbs, が can be used to *also* mark the object of the action, not only the subject. And in those sentences, the subject can sometimes be marked by に. Some people consider the usage of を like in the example above to be improper, however it is incredibly subjective and you will see it so often that considering it improper is just for old men yelling at clouds. The を version tends to be more common in relative clauses or very long and complicated sentences.
+
+There is another way to make phrases with a potential meaning, and that is to simply attach ことができる after a verb in plain form. We will see what this こと means in a later lesson, but for now you should take ことができる as a single unit. 
+
+<pre>
+俺は答える<b>ことができなかった</b>。
+I <b>could not</b> answer.
+</pre>
+
+The differences between ことができる and the normal potential conjugation are incredibly small and often imperceptible. ことができる may come across as slightly more formal because it is more verbose, but it's not something that is worth worrying about. You can consider them pretty much interchangeable.
