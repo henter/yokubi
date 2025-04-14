@@ -27,7 +27,7 @@ To be a middle schooler <b>and</b> live alone is not possible
 
 Sometimes distinguishing between the case marker で particle (location, means, etc) and the てform of だ conjunction is not always clear. What matters, however, is that the meaning of the sentence should still be clear. You shouldn’t worry about pinpointing the exact dictionary definition for each particle you see used in a sentence. If you understand the meaning, that’s good enough.
 
-This brings us to では. では is a compound particle. The は here can be considered the topic marker, but the meaning of では together is more than just the sum of its parts. では often marks the circumstances or condition of another state.
+This brings us to では. では is a compound particle. The は here can be considered the topic marker, but the meaning of では together is more than just the sum of its parts. This particular usage of では highlights that the statement after では applies to the context and circumstances of the noun marked by では.
 
 <pre>
 公園<b>では</b>アイスが売られる
