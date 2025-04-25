@@ -42,14 +42,14 @@ The man was already <b>dead</b>.
 
 間/あいだ(に) and うちに are two other ways to state that something happens while something else is happening, however the usage is more general and they have a broader scope than ながら and つつ.
 
-間/あいだ says that two events happen the same span of time **in its entirety**. This places constraints on what sorts of statements it accepts. 間 itself acts like a noun.
+間/あいだ says that two events cover the same exact interval of time, **in its entirety**. This places constraints on what sorts of statements it accepts. 間 itself acts like a noun.
 
 <pre>
-私がお風呂に入っている<b>間</b>、何をしているのですか？
-What were you doing <b>the entire time</b> I was in the bath?
+二人がお風呂に入っている<b>間</b>、僕は色々考えた。
+<b>While</b> those two were in the bath, I thought about a lot of stuff.
 </pre>
 
-A間**に**B says that B starts and ends **within** the time A takes place.
+A間**に**B says that B starts and ends **within** the span of time when A takes place. Unlike the 間 version without に, it implies that the duration of B is shorter than the duration of A, as it needs to be completely contained within A's interval.
 
 <pre>
 俺が意識を失っている<b>間に</b>何があったのだろうか？
