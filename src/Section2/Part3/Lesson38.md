@@ -53,7 +53,7 @@ A間**に**B says that B starts and ends **within** the span of time when A take
 
 <pre>
 俺が意識を失っている<b>間に</b>何があったのだろうか？
-I wonder if something happened <b>while</b> I was out unconscious? 
+I wonder what happened <b>while</b> I was out unconscious? 
 </pre>
 
 うちに says that an event happens while the statement before うちに remains true.
