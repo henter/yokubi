@@ -17,7 +17,7 @@ I want to eat something tasty
 You came just at the right moment. (moment = “place” in time)
 
 やれる<b>とこ</b>までやってみよう。
-Let’s keep going as far as we can (lit. let’s do it until the moment we cannot do it)
+Let’s keep going as far as we can (lit. let’s try to do it for as long as we are able to do it)
 
 こういう<b>ところ</b>が彼女のいい<b>ところ</b>だ。
 This aspect of her is what is good (about her)
