@@ -31,7 +31,7 @@ Here's a comparison between the past tense and ます form of each type of godan
 | 急**ぐ**   | 急**ぎます** | 急**いだ**   |
 | 持**つ**   | 持**ちます** | 持**った**   |
 
-Since ます itself is an auxiliary verb that ends like any other verb, it can also be conjugated further to provide tense, negativity, etc:
+Since ます itself is an auxiliary verb that ends like any other verb, it can also be conjugated further to provide tense, negativity, etc. However note that the negative form conjugates irregularly.
 
 |                  |             |
 |------------------|-------------|
@@ -44,10 +44,10 @@ Since ます itself is an auxiliary verb that ends like any other verb, it can a
 
 In modern Japanese, there is another way to make the polite negative past tense of verbs, and that is to just add です after the non-polite negative past tense:
 
-<pre>
-死ななかった		->	 死ななかったです  
-Did not die (casual)	->	 Did not die (polite)
-</pre>
+| Casual       | Polite           |
+|--------------|------------------|
+| 死ななかった | 死ななかったです |
+| Did not die  | Did not die      |
 
 This usage of です instead of ます can be seen as slightly less polite but has become more and more common to the point where it’s completely normal to use and the distinction between the two is so incredibly nuanced it is impossible to explain. You can just consider them to be the same.
 
