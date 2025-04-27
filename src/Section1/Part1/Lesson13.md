@@ -3,8 +3,8 @@
 Normally, で marks the "circumstance" or "means" behind an action, or the “location” where such action occurs. 
 
 <pre>
-剣<b>で</b>出来ている
-It is made <b>of</b> swords
+金属<b>で</b>出来ている
+It is made <b>of</b> metal
 
 刀<b>で</b>殺した
 He killed <b>with</b> a katana
