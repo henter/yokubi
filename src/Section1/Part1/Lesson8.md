@@ -50,6 +50,9 @@ The fire <b>was</b> red.
 
 火が赤<b>くない</b>
 The fire is <b>not</b> red.
+
+火が赤<b>くなかった</b>
+The fire <b>was not</b> red.
 </pre>
 
 The adjective いい is an exception and it becomes よい \-\> よかった / よくない.
