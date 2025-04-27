@@ -34,14 +34,14 @@ Someone else does the favor of &lt;verb&gt; towards you
 It is important to keep in mind the difference between the “outside” group and the “inside” group, but it is too complicated to go over it right now. Just remember that てもらう is almost always used with **you** as the subject, and you receive a favor from **someone else**. Likewise, in the opposite direction, てくれる has **someone else** as subject and they do a favor **towards you** the recipient. Note the particles in the following examples:
 
 <pre>
-父<b>に</b>(私<b>が</b>)助けてもらった
-(I) was saved <b>by</b> my father
+(私<b>が</b>)父<b>に</b>教えてもらった
+(I) was taught <b>by</b> my father.
 
-父<b>が</b>(私<b>に</b>)助けてくれた
-My father saved (me)
+父が(私<b>に</b>)教えてくれた
+My father taught (me)
 </pre>
 
-The parts in parenthesis are often dropped or removed because just by using てくれる and てもらう, Japanese can imply a “direction” of the verb which makes it obvious whether the action is towards you or not. In English we say “He saved **me**” but in Japanese we say “彼が助けてくれた”. The “me” part is implied in てくれる. 
+The parts in parenthesis are often dropped or removed because just by using てくれる and てもらう, Japanese can imply a “direction” of the verb which makes it obvious whether the action is towards you or not. In English we say “He taught **me**” but in Japanese we say “彼が教えてくれた”. The “me” part is implied in てくれる. 
 
 We will later see other usages of て auxiliary to add a sense of directionality to phrases like ていく and てくる. 
 
