@@ -2,7 +2,7 @@
 
 Japanese has both regular and irregular verbs (動詞). However, unlike English and its plethora of irregular verb conjugations (“read” \-\> “read”, “speak” \-\> “spoke”, etc), the majority of Japanese verbs are regular and follow a very strict set of pattern rules.
 
-Japanese has two main categories of regular verbs: ichidan (一段) and godan (五段) and they conjugate differently. Ichidan means “one degree” (or “one step”) and godan means “five degrees” (or “five steps”). This terminology is important to understand how they conjugate. 
+Japanese has two main categories of regular verbs: ichidan (一段) and godan (五段) and they conjugate differently. Ichidan means “one row” and godan means “five rows”. This terminology is important to understand how they conjugate. The "rows" refer to the kana syllabary table (五十音図), but you don't need to memorize this.
 
 Here's an example, using a ます (polite) form that we'll learn properly in [Lesson 17](./Lesson17.md). Don't bother memorizing this list.
 
