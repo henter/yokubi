@@ -18,7 +18,7 @@ Here are some examples. Don't bother memorizing these word lists. Learn words ou
 あなた you
 </pre>
 
-達 is a suffix. This suffix can be applied to pronouns and nouns. It refers to the entire group the noun/pronoun belongs to, and is one way to explicitly pluralize things.
+As mentioned earlier, Japanese does not need to distinguish between singular and plural. Without explicitly adding special pluralizer words, only context will tell you if something is singular or plural. Sometimes, however, you may want to make it clear you're talking about a plural. In this case, you can use special suffixes. One of such suffixes is 達. It can be applied to pronouns and nouns and it is used to refer to the entire group the noun/pronoun belongs to. 
 
 <pre>
 私達・わたしたち Us  
