@@ -36,7 +36,7 @@ Night on the sea (NOT "night of the sea")
 の is literally the single most common word in all of japanese, so make sure you remember it well!
 
 <pre>
-私<b>の</b>子供<b>の</b>ネコが多い  
-My child's cats are many. (My kid has a lot of cats.)
+彼女<b>の</b>子供<b>の</b>名前だ。
+It is her child's name.
 </pre>
 
