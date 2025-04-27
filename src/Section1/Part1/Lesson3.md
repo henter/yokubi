@@ -12,23 +12,23 @@ These roles are called "cases", and each role is a specific "case". Japanese use
 
 There's a default word order, and sometimes particles can even be omitted if the meaning can be inferred from context, but in general particles are the norm. Some words can also exist “freely” in a sentence without particles, we’ll take a look at them in a later lesson. 
 
-Remember: these translations are only for demonstration. The sentences and translations are only here for illustration, not instruction.
+Remember: these translations are only for demonstration. The sentences and translations are only here for illustration, not instruction. Due to Japanese not being explicit with plurals, a lot of these sentences can apply to one or a multitude of things, as explained in [Lesson 2](./Lesson2.md)
 
 <pre>
-ジム<b>が</b>ネコ<b>を</b>食べる
-Jim eats cats.
+ネコ<b>が</b>サカナ<b>を</b>食べる
+A cat eats a fish.
 </pre>
 
-Here, が marks "Jim" as the subject. を marks ねこ as the direct object. Then the verb comes at the end of the sentence. The subject of a verb like "eat" is the thing doing the eating. The object is the thing that is being eaten.
+Here, が marks "Cat" as the subject. を marks サカナ as the direct object. Then the verb comes at the end of the sentence. The subject of a verb like "eat" is the thing doing the eating. The object is the thing that is being eaten.
 
 As introduced in [Lesson 0](./Lesson0.md), it is more common to first introduce a “topic” rather than explicitly mark a subject or object. To do this, Japanese uses the “topic marker” particle は, which literally just says "this is what I'm talking about". Most grammar resources compare は to が. They do this because sometimes it's unnatural to use が, and you have to use は instead, or leave the subject unstated. But do not be tricked, は is more general than being an alternative to が. Sometimes it replaces が in the sentence as it introduces the subject as being the topic, but other times it can mark the object as a topic instead. In those cases, the thing marked by を is what gets replaced. As seen in the following examples.
 
 <pre>
-ネコ<b>は</b>ジム<b>が</b>食べる
-The cat, Jim eats it.
+サカナ<b>は</b>ネコ<b>が</b>食べる
+The fish, a cat eats it.
 
-ジム<b>は</b>ネコ<b>を</b>食べる.
-Jim eats a cat.
+ネコ<b>は</b>サカナ<b>を</b>食べる.
+The cat, it eats a fish.
 </pre>
 
 Since the default expectation is to first introduce a topic, and then describe it with the rest of the sentence, when we intentionally choose to explicitly make use of non-topic particles (like が) where a topic would be expected, it ends up putting an additional focus on that part of the sentence. This "focus" is in **addition** to が's behavior as a subject marker, not instead of it. It is common for が to have this nuance, but not all が are focus markers, sometimes they are just neutral subjects and the topic is something else. 
@@ -36,11 +36,11 @@ Since the default expectation is to first introduce a topic, and then describe i
 Compare the following:
 
 <pre>
-ジム<b>が</b>ネコ<b>を</b>食べる
-Jim is the one that eats cats.
+ネコ<b>が</b>サカナ<b>を</b>食べる
+Cats are the ones that eat fish.
 
-ジム<b>は</b>ネコ<b>を</b>食べる
-Jim eats cats. 
+ネコ<b>は</b>サカナ<b>を</b>食べる
+Cats eat fish. 
 </pre>
 
 English uses articles and funny sentence patterns for this kind of focus, but Japanese needs to rely on particles, because the order doesn’t matter grammatically. 
