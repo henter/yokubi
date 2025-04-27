@@ -42,7 +42,7 @@ And the two irregular verbs する and くる:
 | masu stem  | し(ます)  | き(ます) |
 | plain      | する      | くる     |
 | potential  | できる    | これる   |
-| ば stem    | すれば    | これば   |
+| ば stem    | すれば    | くれば   |
 | imperative | しろ/せよ | こい     |
 | volitional | しよう    | こよう   |
 | て form    | して      | きて     |
