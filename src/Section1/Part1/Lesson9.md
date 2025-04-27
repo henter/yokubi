@@ -46,7 +46,7 @@ Don't memorize this table. There's a rule for this: replace the "u" vowel with a
 
 There are also a couple of verbs with a funny irregular conjugation, for example 問う becomes 問うた. There are only a few of them that behave like this (乞う \-\> 乞うた being another one). You don’t need to memorize these, just be aware they exist, they are not very common.
 
-Japanese speakers don't go through this mental process whenever they conjugate something. This process is like trivia to them. At the very least, if you do a little reading and listening in Japanese, you will be able to recognize the past tense at a glance. Exposure is more powerful than memorization.
+Japanese speakers don't go through this mental process whenever they conjugate something. This process is second nature to them. At the very least, if you do a little reading and listening in Japanese, you will be able to recognize the past tense at a glance. Exposure is more powerful than memorization.
 
 The past tense of ichidan verbs is easy. Just replace the る with a た.
 
