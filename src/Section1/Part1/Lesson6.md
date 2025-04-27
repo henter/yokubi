@@ -1,4 +1,4 @@
-# Moving things with に, へ, and から
+# Particles に, へ, and から
 
 These particles mainly deal with location. から indicates the starting point of an action, and へ and に indicate the ending point or direction of an action.
 
@@ -22,37 +22,39 @@ Go <b>towards</b> Tokyo / Headed <b>for</b> Tokyo
 
 In many sentences, へ and に can be interchangeable with very minimal difference in meaning. へ can sometimes sound a bit more formal or literary.
 
-に can mark an indirect object or a location of existence.
-
-An indirect object is something relevant to or affected by a verb, but not part of the verb's core meaning. This overlaps with へ a little, but へ cares more about motion and “towardsness”, and に cares more about the end objective.
-
-<pre>
-学校<b>に</b>来る
-Come <b>to</b> school.
-</pre>
-
-Location of existence is also straightforward
+に can mark an a location of existence or target of direction. The latter use overlaps with へ a little, but へ cares more about motion and “towardsness”, and に cares more about the end objective. It can also mark a point in time when an action takes place.
 
 <pre>
 東京<b>に</b>暮らす
-To live <b>in</b> Tokyo
+To live <b>in</b> Tokyo (location of existence)
+
+学校<b>に</b>来る
+Come <b>to</b> school. (target of direction)
+
+朝の５時に起きた
+I woke up at 5 in the morning. (point in time)
 </pre>
 
-Be aware that there are other particles we can use to mark the location of actions. The kind of particle that is the most appropriate to use depends on the specific verb used in the sentence. While there are general rules or explanations that can help you remember these situations, the only real way to know for sure is through experience. You’ll have to remember which verb goes with which particle as it often will feel rather arbitrary. 
+Be aware that these are all loose rules. In reality, the kind of particle that is the most appropriate to use depends on the specific verb used in the sentence. General rules or explanations can help you remember these situations, but the only real way to know for sure is through experience. You’ll have to remember which verb goes with which particle as it often will feel rather arbitrary. 
 
-The idea of "indirect object" used by に can show up in places that would look like direct objects in English.
+に also has many other uses that don't mark location, direction, or time. It can act as an indirect object or target of an action. An indirect object is something relevant to or affected by a verb, but not part of the verb's core meaning
 
 <pre>
-研究者<b>に</b>なる   
+研究者<b>に</b>なる
 To become a researcher.
 
-ここ<b>に</b>来る   
-He comes here.
+彼に手紙を渡した
+I gave him the letter.
 </pre>
 
-In this way, に becomes a general "first option" for things that look like direct objects but cannot take を for the equivalent verb in Japanese. There are other particles that also do this job, which we will cover later. For certain meanings, you can only use a given particle, not an arbitrary one.
+Sometimes に can also replace direct objects in verbs that are considered transitive in English, but not in Japanese.
 
-These particles can be used in other ways too, you should learn them as you come across them as we won't list all of them.
+<pre>
+電車<b>に</b>乗る
+To ride the train
+</pre>
+
+All the particles in this lesson can be used in many other ways too, you should learn them as you come across them as we won't list all of them.
 
 This is a good time to take notice that particles can attach to phrases as well, not just words. This applies to every particle we've learned so far.
 

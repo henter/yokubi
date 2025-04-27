@@ -16,7 +16,7 @@ I came <b>by</b> bus
 To work <b>in</b> a school
 </pre>
 
-で originally comes from contracting the compound particle にて. You may still see にて in old fashioned or formal writing/announcements.
+で originally comes from contracting the compound particle にて. You may still see にて in old fashioned or formal writing or announcements.
 
 で can also be used like it's the て form of だ. In this usage, it assumes the typical conjunction usage of て form as with verbs or adjectives, except it works with nouns or noun-like words.
 
