@@ -9,7 +9,7 @@ You can distinguish between the particle から and the conjunction から becau
 It’s hot<b>, so</b> I want to go to the pool
 
 みんないい人<b>だから</b>、きっと気にいる
-They are all good people<b>, so</b> they will certainly be delighted.
+They are all good people<b>, so</b> I'm sure you'll like them.
 </pre>
 
 から can come at the beginning of a sentence in the form of だから. In this usage it can either be emphasis, or give an explanation for a previous statement.
