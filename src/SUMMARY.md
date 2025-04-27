@@ -26,7 +26,7 @@
   - [Lesson 15: な adjectives](./Section1/Part1/Lesson15.md)
   - [Lesson 16: Irregular and する verbs](./Section1/Part1/Lesson16.md)
   - [Lesson 17: Basic politeness and ます form](./Section1/Part1/Lesson17.md)
-  - [Lesson 18: Existence with いる and ある, with である and っす](./Section1/Part1/Lesson18.md)
+  - [Lesson 18: Existence with いる and ある plus である](./Section1/Part1/Lesson18.md)
 - [Part 2: Getting Going](./Section1/Part2.md)
   - [Lesson 19: Questions with か](./Section1/Part2/Lesson19.md)
   - [Lesson 20: Questions with の and explanatory のだ](./Section1/Part2/Lesson20.md)

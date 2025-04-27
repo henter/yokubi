@@ -51,4 +51,15 @@ In modern Japanese, there is another way to make the polite negative past tense 
 
 This usage of です instead of ます can be seen as slightly less polite but has become more and more common to the point where it’s completely normal to use and the distinction between the two is so incredibly nuanced it is impossible to explain. You can just consider them to be the same.
 
-The same applies for ないです vs ません as in 食べないです vs 食べません  
+The same applies for ないです vs ません as in 食べないです vs 食べません
+
+Finally, we come to っす, a slurred version of です or ます used in casual speech. It's less formal than です, but serves the same grammatical roles. It is often used in contexts where you want to be casual but still need to stick to the です/ます social expectations. Kinda like going to work dressed business casual. 
+
+<pre>
+いいです -> いい<b>っす</b>
+犬ですか -> 犬<b>っす</b>か
+</pre>
+
+っす is also sometimes used to contract ございます, a keigo version of ある. Again, removing the formality from it, but keeping the politeness.
+
+おはようございます \-\> おはようっす \-\> おっす (yes, really)

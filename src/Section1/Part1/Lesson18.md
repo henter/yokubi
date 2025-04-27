@@ -1,4 +1,4 @@
-# Existence with いる and ある, with である and っす
+# Existence with いる and ある plus である
 
 The verbs いる and ある express existence. The difference between the two is whether the subject is something “animated” or not. An animal and a person take いる, but a table and a sandwich take ある. Something like a car, which moves but isn't alive, can sometimes use one or the other depending on context and focus of the sentence. Don’t be fooled into thinking this is about “living” or not. It is not. For example typhoons take いる because they move on their own. Robots in sci-fi movies also take いる. Sometimes people can take ある as well, especially in old language and set phrases.
 
@@ -9,6 +9,10 @@ In the house there is a cat.
 店が<b>ある</b>
 There is a shop.
 </pre>
+
+<div class="warning">
+Both ある and いる are verbs of existence, and when it comes to marking the location of existence, we usually use に instead of で.
+</div>
 
 Sometimes, when people want to state that they have/own something, they use ある or いる. They technically don't mean "to have", but it’s an equivalent translation to how we use “have/possess” in English. It's just a wording difference.
 
@@ -60,14 +64,3 @@ You might remember that we used ではない as the negative of だ. ではな�
 </pre>
 
 **Note**: でない also exists, but for some quirk of the language the addition of は has become the standard/expected version when negating である. There is no real reason for it other than it is how it is. You might still see でない especially in more formal written media or certain set phrases.
-
-Finally, we come to っす, a slurred version of です used in casual speech. It's less formal than です, but serves the same grammatical roles. It is often used in contexts where you want to be casual but still need to stick to the です/ます social expectations. Kinda like going to work dressed business casual. 
-
-<pre>
-いいです -> いい<b>っす</b>
-犬ですか -> 犬<b>っす</b>か
-</pre>
-
-っす is also sometimes used to contract ございます, a keigo version of ある. Again, removing the formality from it, but keeping the politeness.
-
-おはようございます \-\> おはようっす \-\> おっす (yes, really)
