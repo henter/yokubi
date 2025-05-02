@@ -31,8 +31,8 @@ To live <b>in</b> Tokyo (location of existence)
 学校<b>に</b>来る
 Come <b>to</b> school. (target of direction)
 
-朝の５時に起きた
-I woke up at 5 in the morning. (point in time)
+朝の５時<b>に</b>起きた
+I woke up <b>at</b> 5 in the morning. (point in time)
 </pre>
 
 Be aware that these are all loose rules. In reality, the kind of particle that is the most appropriate to use depends on the specific verb used in the sentence. General rules or explanations can help you remember these situations, but the only real way to know for sure is through experience. You’ll have to remember which verb goes with which particle as it often will feel rather arbitrary. 
@@ -43,7 +43,7 @@ Be aware that these are all loose rules. In reality, the kind of particle that i
 研究者<b>に</b>なる
 To become a researcher.
 
-彼に手紙を渡した
+彼<b>に</b>手紙を渡した
 I gave him the letter.
 </pre>
 
@@ -59,8 +59,8 @@ All the particles in this lesson can be used in many other ways too, you should 
 This is a good time to take notice that particles can attach to phrases as well, not just words. This applies to every particle we've learned so far.
 
 <pre>
-私の家から来る   
-It comes from my house
+私の家<b>から</b>来る   
+It comes <b>from</b> my house
 </pre>
 
 Here から attaches to 私の家 which can be considered a single phrase (“my house”).   
