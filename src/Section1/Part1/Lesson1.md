@@ -2,7 +2,7 @@
 
 Let’s start from sentences in the shape of “A is B”. Japanese has two basic "is" words. The grammar term for such words is "copula". Copulas have a dedicated term because they're special verb-like things.
 
-The two copulas in Japanese are だ and です. です is more polite than だ. Despite both being copulas, they can't always be used in the same patterns. Funnily enough, you can even omit them entirely while still implying an “A is B” type of relationship in your sentences. Especially だ is usually omitted at the end of conversational sentences in modern Japanese.
+The two copulas in Japanese are だ and です. です is more polite than だ. Despite both being copulas, their usage can be flexible and sometimes optional: you can omit them entirely while still implying an “A is B” type of relationship in your sentences. Especially だ is usually omitted at the end of conversational sentences in modern Japanese.
 
 Unlike English, the state-of-being word goes **after** the word that you're using to describe something, rather than before it. We will see that this applies to most modifier words in Japanese: they apply to the word on their **left**.
 
@@ -14,7 +14,7 @@ It's a pen.
 It is a cat.
 </pre>
 
-The difference between だ and です is generally a matter of politeness and formality. One thing important to remember is that, while です is the polite version of だ, the two aren’t always interchangeable and have a lot of different uses. You will learn them later.
+The difference between だ and です is generally a matter of politeness and formality. One thing that is important to remember is that while です is the polite version of だ, the two aren’t always interchangeable and have a lot of different uses. You cannot always freely replace だ for です (or vice-versa). You will learn some of those uses in later lessons.
 
 Later you will also see です get used in places where English wouldn't allow "is". This is because it can even act just like a filler word with no added meaning.
 
