@@ -24,7 +24,7 @@ The volitional form of です is でしょう and of だ is だろう. These usu
 It's good, don't you think? 
 
 犬だろうと、猫だろうと、なんでも問題ありません   
-Perhaps dogs, perhaps cats; whichever it is, there’s no problem. 
+Perhaps dogs, perhaps cats; there’s no problem whatsoever. 
 </pre>
 
 The second way to express desire is たい. たい is an い-adjective-like auxiliary that attaches the same way as ます. 
