@@ -46,7 +46,7 @@ A bit more
 
 <pre>
 <b>まだ</b>食べるの？
-Are you still eating?
+Are you still going to eat (more)? / Are you going to continue eating?
 
 <b>まだ</b>負けないな！
 I haven’t lost yet!
